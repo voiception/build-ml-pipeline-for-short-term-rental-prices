@@ -6,6 +6,14 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
+## Submission
+
+github link: [https://github.com/voiception/build-ml-pipeline-for-short-term-rental-prices.git](https://github.com/voiception/build-ml-pipeline-for-short-term-rental-prices.git)
+
+W&B project link: [https://wandb.ai/voiception/nyc_airbnb](https://wandb.ai/voiception/nyc_airbnb)
+
+
+
 ## Table of contents
 
 - [Introduction](#build-an-ML-Pipeline-for-Short-Term-Rental-Prices-in-NYC)
